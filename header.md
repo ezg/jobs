@@ -2,4 +2,4 @@ Einblick Analytics is a MIT and Brown University spin-off to commercialize North
 
 <br/>
 
-Email applications to: <contact@einblick.ai>
+Email applications to: <careers@einblick.ai>
