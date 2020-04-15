@@ -1,27 +1,24 @@
-*The DARPA Data Driven Discovery of Models (D3M) program automates the methods in data science to create empirical models of real, complex processes. D3M enables non-expert users to make predictions from data without the need for data scientists. The program accelerates scientific discovery and intelligence analysis by automatically searching the complex model space and discovering and explaining models to users.*
+Responsibilities:
+* Designing new and redesigning existing user-facing features
+* Translating designs and wireframes into high quality code
+* Building reusable components for future use
+* Optimizing components for maximum performance for a vast array of form-factors, includings desktops, pen & touch-enabled devices such as the Microsoft Surface Hub and tablets
+* Defining APIs in close collaboration with our backend team
+* Partner closely with product designers and managers to understand customer concerns
+* Keeping a pulse on the evolving technologies in frontend development
 
-# Welcome!
-             
-Northstar is an interactive Data Science platform that enables users to build complex Data Science workflows, without software coding or machine learning expertise. Thanks to an intuitive *User Interface* and state-of-the-art *Automated Machine Learning* (AutoML), *Northstar's* users do not require a computer science or statistical background to perform advanced analysis.  Northstar will take care of repetitive and complex tasks, allowing *Domain Experts* to effortlessly explore their data and find key insights through the intuitive user interface.
 
-<br/>
-
-This guide has been written explicitly for the upcoming *Melinda and Bill Gates Foundation Experiment*. It is designed to get you started with Northstar's main functionalities that you can use to start exploring the preloaded datasets for the *Ethiopia Experiments*. 
-
-<br/>
-
-If you encounter any problems just write to us at *bb@einblick.ai*.
-
-# Getting Started <a name="top"></a>
-
-1. [**First Steps:**] (#steps)
-    1. [Login] (#login)
-    2. [Import CSV files (optional)] (#importcsv)
-    3. [Create A Workspace] (#createworkspace)
-    4. [Northstar's Canvas] (#canvas)
-2. [**Data Visualization:**] (#visualization)
-    1. [Histograms] (#histo)
-    2. [Scatter Plots] (#scatter)
-    3. [Line Charts] (#linechart)
-    4. [Table View] (#tableview)
-3. [**Visual Queries:**] (#queries)
+Position Requirements::
+* Excellent programming skills in TypeScript, JavaScript, HTML and CSS
+* Thorough understanding of React and its core principles
+* In-depth knowledge of CSS and its extensions
+* Excellent understanding of UI/UX principles and how to apply them
+* Experience with state management libraries such as MobX, Flux or Redux
+* Experience using D3.js
+* Familiarity with modern front-end pipelines and tools (npm, webpack, etc.)
+* An eye for detail and aesthetics
+* Familiarity with RESTful APIs and web sockets using NodeJS
+* Experience with Git as a version control system
+* Experience in Data Science / ML is a plus (Python, R, SQL)
+* At least 4 years of experience in front end development
+* Excellent written and oral communication skills
