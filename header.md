@@ -1,3 +1,5 @@
 Einblick Analytics is a MIT and Brown University spin-off to commercialize Northstar, an interactive data science platform that reinvents how people interact with data. Northstar won several DARPA Automated Machine Learning competitions and is already in use by Fortune 500 companies. It empowers users with no expertise in programming, statistics, or machine learning to collaboratively explore and mine data through an intuitive user interface and effortlessly build, analyze, and evaluate machine learning (ML) pipelines and is  best conveyed by watching our demo video: https://vimeo.com/342787403.
+
 <br/>
+
 Email applications to: contact@einblick.ai
