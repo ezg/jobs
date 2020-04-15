@@ -7,16 +7,14 @@ Responsibilities:
 * Communicate and collaborate with our potential customers to assist the deployment
 
 Position Requirements:
-* Excellent programming skills in TypeScript, JavaScript, HTML and CSS
-* Thorough understanding of React and its core principles
-* In-depth knowledge of CSS and its extensions
-* Excellent understanding of UI/UX principles and how to apply them
-* Experience with state management libraries such as MobX, Flux or Redux
-* Experience using D3.js
-* Familiarity with modern front-end pipelines and tools (npm, webpack, etc.)
-* An eye for detail and aesthetics
-* Familiarity with RESTful APIs and web sockets using NodeJS
+* Excellent programming skills in C++
+* Outstanding design, debugging and problem-solving skills
+* Experience with working on large codebases
+* Experience in building data processing and management systems would be ideal
+* Familiarity with Python
+* Demonstrated to build systems for cloud environments (Docker, Kubernetes, etc). 
 * Experience with Git as a version control system
 * Experience in Data Science / ML is a plus (Python, R, SQL)
-* At least 4 years of experience in front end development
+* B.Sc. in Computer Science or related field
+* At least 6 years of experience in developing systems
 * Excellent written and oral communication skills
