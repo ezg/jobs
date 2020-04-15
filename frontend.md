@@ -8,7 +8,7 @@ Responsibilities:
 * Keeping a pulse on the evolving technologies in frontend development
 
 
-Position Requirements::
+Position Requirements:
 * Excellent programming skills in TypeScript, JavaScript, HTML and CSS
 * Thorough understanding of React and its core principles
 * In-depth knowledge of CSS and its extensions
