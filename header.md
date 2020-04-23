@@ -6,6 +6,4 @@ This mission has followed us many years and has started out as a research projec
 
 The best way to understand our product is to see it: https://vimeo.com/342787403
 
-<br/>
-
 Email applications to: <careers@einblick.ai>
