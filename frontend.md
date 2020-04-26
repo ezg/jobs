@@ -8,7 +8,7 @@ Why join us...
 
 About this role…
 * You will design, research, build and maintain new product features from start to finish.
-* You will add improvements to performance, reliability, and polish of UI components . 
+* You will add improvements to performance, reliability, and polish of UI components. 
 * You will optimize our product for a vast array of form-factors, including desktop, pen & touch-enabled devices such as the Microsoft Surface Hub and tablets.
 * You will keep a pulse on the evolving technologies in frontend development.
 
