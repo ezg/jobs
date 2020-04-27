@@ -1,6 +1,6 @@
 About this role…
 * You will develop and implement new features and algorithms for our novel streaming and sampling engine. 
-* You will work closely with front-end and AI team to provide efficient and easy-to-use infrastructure.
+* You will work closely with frontend and AI team to provide efficient and easy-to-use infrastructure.
 * You will increases the reliability and performance of existing components and help to develop best practices to ensure the overall quality of our code base.
 * You will integrate and improve open-source libraries and contribute back.
 * You will communicate and collaborate with our customers to assist the deployment.
