@@ -1,11 +1,3 @@
-Why join us...
-* We want to enable everyone to make an impact through data not opinions. You can help us realize this goal. 
-* Our team is small, and everyone is wearing many hats. You will jump between design, engineering, testing, product, marketing and participate in every phase from idea to implementation. Every day is an exciting opportunity.
-* We already work with several Fortune 500 companies and you can learn first hand from what is important to them. 
-* Be part of a team with diverse backgrounds that includes some of the best researchers of the machine learning and database community. 
-* Join us at a great time where our war chest is filled and the playing field is huge and green. 
-
-
 About this role…
 * You will develop and implement new features and algorithms for our novel streaming and sampling engine. 
 * You will work closely with front-end and AI team to provide efficient and easy-to-use infrastructure.
